@@ -1,0 +1,16 @@
+[
+  {
+    "uid": "BA00D981",
+    "nombre": "Pablo",
+    "puesto": "Operario",
+    "nivelAcceso": "Nivel 3",
+    "puedeEntrar": true
+  },
+  {
+    "uid": "33D68039",
+    "nombre": "Seguridad",
+    "puesto": "Responsable Seguridad",
+    "nivelAcceso": "Administrador",
+    "puedeEntrar": true
+  }
+]
